@@ -1,16 +1,2 @@
-# expense
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a personal expense app built on Flutter. It is a one-page app that takes the input of our personal expenses and, based on the total amount spent, calculates the percentage of that expense on each day and displays it on the screen using a bar along with the amount spent.
+It also displays the amount along with the name of the expense with its subtitles and a delete icon as a card view of each expense separately in different colors.
